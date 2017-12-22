@@ -1,2 +1,2 @@
 # HPDF
-[HPDF-TASK-1] Twiiter clone using ReactJS and Material-UI
+[HPDF-TASK-1] Twitter clone using ReactJS and Material-UI
