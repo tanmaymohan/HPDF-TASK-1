@@ -184,7 +184,7 @@ options={{username:"HasuraHQ", width:"800" , height:"600"}} />
       <Tweet 
        tweetId="938977275592114177">
        </Tweet>
-
+    <p> <strong> For searchpage please visit </strong> : <a href="https://searchpg.egomaniac13.hasura-app.io/">HERE</a> </p> 
     </Paper>
     
     
