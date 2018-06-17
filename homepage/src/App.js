@@ -1,17 +1,12 @@
 import React , { Component } from 'react';
-import PropTypes from 'prop-types';
-import { withStyles } from 'material-ui/styles';
 import Paper from 'material-ui/Paper';
-import Typography from 'material-ui/styles/typography';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider'
 import AppBar from 'material-ui/AppBar'
 import FlatButton from 'material-ui/FlatButton';
 import IconButton from 'material-ui/IconButton';
 import Avatar from 'material-ui/Avatar';
 import {Card, CardActions, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
-import ActionAndroid from 'material-ui/svg-icons/action/android';
 import {List, ListItem} from 'material-ui/List';
-import ImageAddAPhoto from 'material-ui/svg-icons/image/add-a-photo'
 import TextField from 'material-ui/TextField';
 import Badge from 'material-ui/Badge';
 import NotificationsIcon from 'material-ui/svg-icons/social/notifications';
@@ -177,6 +172,7 @@ options={{username:"HasuraHQ", width:"800" , height:"600"}} />
       float: 'right',
       clear: 'right'}}>
           <p>© 2017 Twitter About Help Center Terms Privacy policy <br /> Cookies Ads info Brand Blog Status <br />  Apps Jobs Marketing Businesses Developers</p>
+          
           </Paper>
       
      <Paper 
@@ -184,7 +180,7 @@ options={{username:"HasuraHQ", width:"800" , height:"600"}} />
       <Tweet 
        tweetId="938977275592114177">
        </Tweet>
-    <p> <strong> For searchpage please visit </strong> : <a href="https://searchpg.egomaniac13.hasura-app.io/">HERE</a> </p> 
+
     </Paper>
     
     
