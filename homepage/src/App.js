@@ -49,7 +49,7 @@ class App extends Component
         <ToolbarGroup>
           <TextField  hintText="Write here" />
 <Share 
-url="https://twitter.com/tanmay_mohan" />
+url="https://twitter.com/tweetsbytanmay" />
 
            
           <IconMenu
@@ -85,7 +85,7 @@ url="https://twitter.com/tanmay_mohan" />
       <FlatButton primary={true} label="Tweets" /><p>300</p><FlatButton primary={true} label="Following" /><p>300</p><FlatButton primary={true} label="Following" /><p>300</p>
     </CardActions>
     <Follow
-    username="tanmay_mohan" />
+    username="tweetsbytanmay" />
   </Card>
   </Paper> 
   
@@ -114,8 +114,8 @@ marginLeft:"500px",marginRight:"250px",marginTop:"20px",position:"absolute",zInd
 <Card>
   <CardHeader
       title="Tanmay Mohan"
-      subtitle="@tanmay_mohan"
-      avatar="https://pbs.twimg.com/profile_images/942967280240955392/pn3xOykn_400x400.jpg"
+      subtitle="@tweetsbytanmay"
+      avatar="https://pbs.twimg.com/profile_images/1059680469506232320/cmDVuOwb_400x400.jpg"
     />
 
     <CardMedia>
@@ -155,7 +155,7 @@ options={{username:"HasuraHQ", width:"800" , height:"600"}} />
       <Card>
         <CardTitle title="Who to Follow"></CardTitle>
         <Follow 
-        username="tanmay_mohan">
+        username="tweetsbytanmay">
         </Follow>
         <Follow 
         username="HasuraHQ">
